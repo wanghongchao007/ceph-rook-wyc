@@ -1,2 +1,2 @@
-From k8s.gcr.io/sig-storage/csi-resizer:v1.2.0
+From k8s.gcr.io/sig-storage/csi-provisioner:v2.2.2
 Maintainer 1312659314@qq.com
